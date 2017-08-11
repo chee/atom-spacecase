@@ -1,7 +1,7 @@
 {
   "name": "camel-case-mode",
   "main": "./lib/camel-case-mode",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "type camel case words with space bar like normal word person",
   "keywords": [],
   "activationCommands": {
