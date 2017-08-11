@@ -1,0 +1,17 @@
+{
+  "atom-text-editor": {
+    "ctrl-shift-space ctrl-shift-space": "spacecase:toggle-camel",
+    "ctrl-shift-space -": "spacecase:toggle-kebab",
+    "ctrl-shift-space _": "spacecase:toggle-snake",
+    "ctrl-shift-space ctrl-_": "spacecase:toggle-snake"
+  },
+  ".platform-darwin atom-text-editor.spacecase.vim-mode-plus:not(.normal-mode)": {
+    "ctrl-c": "spacecase:vim-mode-plus-disable",
+    "esc": "spacecase:vim-mode-plus-disable"
+  },
+  "atom-text-editor.spacecase": {
+    "space": "spacecase:transform-next-letter",
+    "esc": "spacecase:disable",
+    "enter": "spacecase:disable"
+  }
+}

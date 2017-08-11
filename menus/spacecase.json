@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Spacecase",
+          "submenu": [
+            {
+              "label": "camelCaseMode",
+              "command": "spacecase:toggle-camel"
+            },
+            {
+              "label": "kebab-case-mode",
+              "command": "spacecase:toggle-camel"
+            },
+            {
+              "label": "snaek_case_mode",
+              "command": "spacecase:toggle-camel"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
