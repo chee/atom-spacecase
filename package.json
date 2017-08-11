@@ -1,5 +1,5 @@
 {
-  "name": "camel-case-mode",
+  "name": "spacecase",
   "main": "./lib/spacecase",
   "version": "0.0.1",
   "description": "type camel case words with space bar like normal word person",
