@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "camel-case-mode:toggle"
   },
-  "repository": "https://github.com/chee/camel-case-mode",
+  "repository": "https://github.com/chee/atom-camel-case-mode",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
