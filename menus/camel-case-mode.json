@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle camel-case-mode",
+        "label": "Toggle camelCaseMode",
         "command": "camel-case-mode:toggle"
       }
     ]
@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "camel-case-mode",
+          "label": "camelCaseMode",
           "submenu": [
             {
               "label": "Toggle",

@@ -1,4 +1,4 @@
-Copyright (c) 2017 <Your name here>
+copyright (c) 2017 chee
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

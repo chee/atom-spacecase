@@ -2,17 +2,15 @@
   "name": "camel-case-mode",
   "main": "./lib/camel-case-mode",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [
-  ],
+  "description": "type camel case words with space bar like normal word person",
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "camel-case-mode:toggle"
   },
-  "repository": "https://github.com/atom/camel-case-mode",
+  "repository": "https://github.com/chee/camel-case-mode",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
