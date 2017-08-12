@@ -10,6 +10,7 @@
     "esc": "spacecase:vim-mode-plus-disable"
   },
   "atom-text-editor.spacecase": {
+    "shift-space": "spacecase:transform-next-letter",
     "space": "spacecase:transform-next-letter",
     "esc": "spacecase:disable",
     "enter": "spacecase:disable"
